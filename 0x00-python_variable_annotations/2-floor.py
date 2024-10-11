@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-# import math moodule
-import math
 
 """
 a type-annotated function floor which takes a float n as argument
@@ -13,4 +11,4 @@ def floor(n: float) -> int:
     return the floor of the float
     """
 
-    return math.floor(n)
+    return int(n)
