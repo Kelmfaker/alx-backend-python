@@ -9,4 +9,9 @@ async takes integer
 
 async def wait_n(n: int, max_delay: int) -> float:
     """
-    return 
+    return random for each
+    """
+
+    while n
+
+
