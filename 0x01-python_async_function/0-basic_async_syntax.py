@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # Importing Modules
 import asyncio
 import random
